@@ -22,7 +22,7 @@ search:
   cancel: Отмена
 
 panel:
-  lastmod: Последнее редактирование
+  lastmod: Последние обновления
   trending_tags: Популярные теги
   toc: Оглавление
 
@@ -63,7 +63,7 @@ post:
   timeago:
     day: вчера
     hour: час назад
-    minute: 1 минуту назад
+    minute: мин назад
     just_now: только что
   words: слов
   pageview_measure: просмотры
