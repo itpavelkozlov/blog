@@ -132,6 +132,11 @@ defaults:
       path: _drafts
     values:
       comments: false
+
+  - scope:
+      path: "/images"
+    values:
+      image: true
   -
     scope:
       path: ''
